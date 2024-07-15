@@ -4,7 +4,7 @@ This repository contains the source code and design assets for a Horse Ride Book
 
 # Demo
 For a live demonstration of the application: 
-[Live-Link]( https://abhishekkumar369.github.io/Process-Schedular/) 
+[Live-Link](  https://abhishekkumar369.github.io/Horse-Ride-Booking/) 
 
 
 # Features
