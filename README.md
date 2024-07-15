@@ -2,9 +2,6 @@
 ## Overview
 This repository contains the source code and design assets for a Horse Ride Booking System, developed as a React.js application with a focus on modern UI/UX principles. The system allows users to browse and book horse rides from a selection of four horses, choose their preferred date and time slot, and receive a confirmation notification along with a calendar invite.
 
-## Demo
-For a live demonstration of the application: 
-[Live-Link](horse-ride-booking-gules.vercel.app) 
 
 
 ## Features
