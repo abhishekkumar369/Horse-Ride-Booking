@@ -33,7 +33,6 @@ Built with Webpack and Babel, and managed using NPM for package installation and
 To run this project locally, follow these steps:-
 
 ## Clone the repository:
-Copy code
 - git clone https://github.com/yourusername/horse-ride-booking-system.git
 - cd horse-ride-booking-system
 - Install dependencies: npm install
