@@ -23,16 +23,19 @@ Designed using Figma, the project includes wireframes, high-fidelity mockups, an
 ### State Management: 
 Utilizes Redux for managing application state, ensuring data consistency and efficient updates across components.
 
-### Animations: Implements animations and transitions using Framer Motion, enhancing the visual appeal and usability of the application.
-Build and Dependency Management: Built with Webpack and Babel, and managed using NPM for package installation and scripts.
+### Animations: 
+Implements animations and transitions using Framer Motion, enhancing the visual appeal and usability of the application.
 
-Getting Started
-To run this project locally, follow these steps:
+### Build and Dependency Management: 
+Built with Webpack and Babel, and managed using NPM for package installation and scripts.
+
+### Getting Started:
+To run this project locally, follow these steps:-
 
 ## Clone the repository:
 Copy code
-(1) git clone https://github.com/yourusername/horse-ride-booking-system.git
-(2) cd horse-ride-booking-system
-(3) Install dependencies: npm install
-(4) Start the development server: npm start
-(5) Open your browser and visit http://localhost:3000 to view the application.
+- git clone https://github.com/yourusername/horse-ride-booking-system.git
+- cd horse-ride-booking-system
+- Install dependencies: npm install
+- Start the development server: npm start
+- Open your browser and visit http://localhost:3000 to view the application.
