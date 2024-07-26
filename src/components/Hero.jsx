@@ -61,6 +61,17 @@ function Hero() {
               <h4>Plan your adventure now</h4>
               <h1>
                 Experience <span>great saving</span> with our horse booking.
+                    <span style={{fontFamily: 'Roboto, sans-serif', fontWeight: 'bold', color: '#92001e'}}>
+                  <Typewriter
+                    words={[` ${user?.name}`]} // Include only the user's name in the words array
+                    loop={0}
+                    cursor
+                    cursorStyle=''
+                    typeSpeed={70}
+                    deleteSpeed={50}
+                    delaySpeed={2200}
+                  />
+                </span>
               </h1>
               <p>
                 Book your ideal horse riding experience. Enjoy competitive prices, scenic trails, flexible scheduling options, and more.
