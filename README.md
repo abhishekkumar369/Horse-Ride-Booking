@@ -18,7 +18,7 @@ Upon successful booking submission, users receive a professional and friendly po
 Designed using Figma, the project includes wireframes, high-fidelity mockups, and an interactive prototype. The design emphasizes a friendly and inviting color scheme with soothing tones, clean and legible typography, and high-quality images of the horses. Smooth transitions and animations enhance the user experience.
 
 ### State Management: 
-Utilizes Redux for managing application state, ensuring data consistency and efficient updates across components.
+Utilizes Redux to manage the application state, ensuring data consistency and efficient updates across components.
 
 ### Animations: 
 Implements animations and transitions using Framer Motion, enhancing the visual appeal and usability of the application.
